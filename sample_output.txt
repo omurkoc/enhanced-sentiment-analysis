@@ -1,0 +1,19 @@
+🔹 Normal Model Output
+vbnet
+Copy
+Edit
+Input: This is not good.
+Predicted Sentiment: positive ❌ (Incorrect)
+
+Input: I don't like this movie.
+Predicted Sentiment: positive ❌
+
+🔹 Custom Model Output
+vbnet
+Copy
+Edit
+Input: This is not good.
+Predicted Sentiment: negative ✅ (Correct using custom negation logic)
+
+Input: I don't like this movie.
+Predicted Sentiment: negative ✅
